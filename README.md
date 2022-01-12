@@ -1,1 +1,1 @@
-# FisComp
+# Curso de Física Computacional
