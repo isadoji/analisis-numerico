@@ -4,9 +4,5 @@ Notas realizadas por: Isabel Domínguez Jiménez y Maria Elena Tejeda Yeomans
 
 Para abrir en tu colab:
 
-http://colab.research.google.com/github
+http://colab.research.google.com/github/isadoji/FisComp
 
-busca 
-
-
-https://github.com/isadoji/FisComp
